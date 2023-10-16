@@ -1,0 +1,15 @@
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\bin\Debug\net6.0\GoodsForecast.exe
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\bin\Debug\net6.0\GoodsForecast.deps.json
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\bin\Debug\net6.0\GoodsForecast.runtimeconfig.json
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\bin\Debug\net6.0\GoodsForecast.dll
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\bin\Debug\net6.0\GoodsForecast.pdb
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\obj\Debug\net6.0\GoodsForecast.csproj.AssemblyReference.cache
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\obj\Debug\net6.0\GoodsForecast.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\obj\Debug\net6.0\GoodsForecast.AssemblyInfoInputs.cache
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\obj\Debug\net6.0\GoodsForecast.AssemblyInfo.cs
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\obj\Debug\net6.0\GoodsForecast.csproj.CoreCompileInputs.cache
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\obj\Debug\net6.0\GoodsForecast.dll
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\obj\Debug\net6.0\refint\GoodsForecast.dll
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\obj\Debug\net6.0\GoodsForecast.pdb
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\obj\Debug\net6.0\GoodsForecast.genruntimeconfig.cache
+D:\Projects\github\GoodsForecastTest\GoodsForecast\GoodsForecast\obj\Debug\net6.0\ref\GoodsForecast.dll
